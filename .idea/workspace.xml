@@ -25,7 +25,6 @@
       <change beforePath="$PROJECT_DIR$/../base/pro/src/demo.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../base/pro/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../base/pro/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../base/pro/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../base/pro/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/闭包和执行上下文.md" beforeDir="false" afterPath="$PROJECT_DIR$/闭包和执行上下文.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-1-homeWork/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/asynchronous/promise.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/asynchronous/promise.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../icbc/.idea/vcs.xml" beforeDir="false" />
@@ -63,8 +62,8 @@
         <entry file="file://$PROJECT_DIR$/闭包和执行上下文.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="185">
-                <caret line="79" column="3" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
+              <first_editor relative-caret-position="1006">
+                <caret line="74" column="82" selection-start-line="74" selection-start-column="82" selection-end-line="74" selection-end-column="82" />
               </first_editor>
               <second_editor />
             </state>
@@ -150,16 +149,24 @@
       <workItem from="1564391727732" duration="3049000" />
       <workItem from="1564402502844" duration="19000" />
       <workItem from="1564402527870" duration="2123000" />
-      <workItem from="1564498441523" duration="9145000" />
+      <workItem from="1564498441523" duration="9471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22017000" />
+    <option name="totallyTimeSpent" value="22343000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="833" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -170,7 +177,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="6" weight="0.36437246" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="6" visible="true" weight="0.36437246" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928476" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
@@ -187,8 +194,8 @@
     <entry file="file://$PROJECT_DIR$/闭包和执行上下文.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="185">
-            <caret line="79" column="3" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
+          <first_editor relative-caret-position="1006">
+            <caret line="74" column="82" selection-start-line="74" selection-start-column="82" selection-end-line="74" selection-end-column="82" />
           </first_editor>
           <second_editor />
         </state>
