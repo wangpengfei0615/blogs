@@ -25,7 +25,6 @@
       <change beforePath="$PROJECT_DIR$/../base/pro/src/demo.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../base/pro/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../base/pro/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../base/pro/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../base/pro/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/闭包和执行上下文.md" beforeDir="false" afterPath="$PROJECT_DIR$/闭包和执行上下文.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-1-homeWork/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/asynchronous/promise.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/asynchronous/promise.html" afterDir="false" />
@@ -63,9 +62,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/闭包和执行上下文.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="488">
-                <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="185">
+                <caret line="79" column="3" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -151,12 +150,12 @@
       <workItem from="1564391727732" duration="3049000" />
       <workItem from="1564402502844" duration="19000" />
       <workItem from="1564402527870" duration="2123000" />
-      <workItem from="1564498441523" duration="5085000" />
+      <workItem from="1564498441523" duration="9145000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17957000" />
+    <option name="totallyTimeSpent" value="22017000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="833" extended-state="0" />
@@ -171,11 +170,11 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="6" weight="0.32928476" />
-      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.36437246" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928476" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32928476" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32928476" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -187,9 +186,9 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/闭包和执行上下文.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="488">
-            <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="185">
+            <caret line="79" column="3" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
